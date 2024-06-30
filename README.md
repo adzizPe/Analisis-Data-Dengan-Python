@@ -13,3 +13,4 @@ streamlit run app.py
 ```
 
 ## Access by link
+https://adzizpe-analisis-data-dengan-python-app-t7guyf.streamlit.app/
